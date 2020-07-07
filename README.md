@@ -11,6 +11,7 @@
 + ADS1115模数转换器芯片 [购买链接](https://detail.tmall.com/item.htm?spm=a230r.1.14.7.4ce12c7eIelCUD&id=601766525831&ns=1&abbucket=2)
 + 7805贴片三端稳压管 [购买链接](https://detail.tmall.com/item.htm?spm=a230r.1.14.6.5a9b303amULc3c&id=44111955001&cm_id=140105335569ed55e27b&abbucket=2)
 + ICL7660电压转换芯片 [购买链接](https://detail.tmall.com/item.htm?spm=a230r.1.14.23.71065e8aYyy5Fq&id=610882920258&ns=1&abbucket=2)
++ 悬臂梁式力传感器 [购买链接](https://item.taobao.com/item.htm?spm=a230r.1.14.21.150378972D1pdC&id=569898995913&ns=1&abbucket=13#detail)
 + 自行设计的电路板与用到的贴片电容、电阻及连接用导线（具体请见“电路设计”文件夹中的README）
 + 自行设计的内部骨架与外壳
 + 9V电池一个
