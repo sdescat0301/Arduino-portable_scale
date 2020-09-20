@@ -13,8 +13,7 @@ float Voltage = 0.0;    //存储检测到的电压值
 float true_voltage = 0.0;   //存储由于重物改变的电压值，也就是理论上的电压值
 float Weight = 0.0;    //存储计算得到的质量
 
-//函数：在显示屏上输出,单位为kg
-void draw(int Weight)
+void draw(int Weight)   //函数：在显示屏上输出,单位为kg
 {
     u8g.setFont(u8g_font_fur17r);    //设置第一行字体
     u8g.setPrintPos(20,10);    //设置第一行输出位置
